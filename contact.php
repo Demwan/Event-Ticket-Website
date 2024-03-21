@@ -8,7 +8,7 @@ $password = "qCmPjBZj4pi09Ji";
 $dbname = "if0_36211399_tickets";
 
 
-// **Verbinding maken met de database**
+// **Verbindihoing maken met de database**
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
